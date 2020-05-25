@@ -15,7 +15,7 @@ const TodoList = ({allTodos, setTodosChange}) => {
 
       // setTodosChange(true);
       // setTodos(todos.filter(todo => todo.id !== id));
-      window.location = "/dashboard";
+      window.location = "/";
     } catch (err) {
       console.error(err.message);
     }
