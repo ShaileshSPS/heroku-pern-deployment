@@ -1,4 +1,4 @@
-CREATE DATABASE integratedpernapp;
+-- CREATE DATABASE integratedpernapp;
 
 create schema users;
 
