@@ -22,3 +22,6 @@ Commands:
 ->  git commit
 ->  git push heroku master // push the code to heroku for deployment
 ->  heroku open // Run the application
+
+
+-> acceess link http://pern-application.herokuapp.com/
